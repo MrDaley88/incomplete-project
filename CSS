@@ -1,0 +1,59 @@
+* {
+  font-family: Helvetica; 
+  color: seashell;
+  opacity: 0.9;
+  background-color: black;
+}
+
+.nav {
+  text-align: right;
+  display: inline-block;
+  text-decoration: underline;
+  word-spacing: 4px;
+  font-size: 15;
+}
+.logo {
+  image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png" );
+}
+.container1 {
+  max-height: 700px;
+}
+.img-container {
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg)
+
+  
+}
+.container2 {
+ flex-flow: row wrap;
+}
+.item-img {
+ border: 1px solid seashell;
+ max-height: 200px;
+ max-width: 300px;
+}
+.container3 {
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg);
+  object-fit: cover;
+}
+#location {
+ 
+}
+.container3 h2 {
+  text-align: center;
+  padding: 50px 20px;
+ }
+ .container3 h3,p {
+  text-align: center;
+  display: box;
+  
+ 
+  
+ }
+}
+.footer-body {
+  text-align: center;
+  max-hieght: 200px;
+}
+.footer-end {
+  padding: 20px;
+}
