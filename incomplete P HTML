@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Tea Cozy</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+  <body>
+    <header class="header">
+      <div class="logo">
+      <nav class="menu">
+        <ul>
+          <li class="menu">Mission</li>
+          <li class="menu">Featured tea</li>
+          <li class="menu">Locations</li>
+          <li class="menu"><a href="contact-us" id="contact-us">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="container1" id="mission">
+      <div class="img-container">
+        <div class="mission-container" id="mission">
+          <h2>Our Mission</h2>
+          <h4>Handpicked, Artisanally Curated, Free-Ranged, Sustainable, Small Batch, Fair Trade, Organic Tea</h4>
+        </div>
+      </div>
+    </div> 
+    <div class="container2">
+      <h2>Tea of the Month</h2>
+      <h4>What's Steeping at The Tea Cozy?</h4>
+    <div class="img-container2">
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-berryblitz.jpg" class="item-img">
+      <h4 class="items">Fall Berry Blitz Tea</h4>
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg" class="item-img">
+      <h4 class="items">Spiced Rum Tea</h4>
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-donut.jpg" class="item-img">
+      <h4 class"items">Seasonal Donuts</h4>
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg" class="item-img">
+      <h4 class="items">Myrtle Ave Tea</h4>
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg" class="item-img">
+      <h4 class="items">Bedford Bizarre Tea</h4>
+    </div>
+    </div> 
+    <div class="container3">
+      <h2>Locations</h2>  
+    <div class="location-container">
+      <h3>Downtown</h3><p>384 West 4th St suite 108 Portland, Maine</p>
+      <h3>East Bayside</h3><p>3433 Phisherman's Avenue (Northwest corner) Portland, Maine</p>
+      <h3>Oakdale</h3><p>515 Crescent Avenue Second Floor Portland, Maine</p>
+    </div>
+    </div>
+  </body>
+  <footer>
+    <div class="footer-container" id="contact-us">
+      <div class="footer-body">
+        <h1>The Tea cozy</h1>
+        <h5>contact@theteacozy.com</h5>
+        <h5>917-555-8904</h5>
+      </div>
+      <div class="footer-end">
+        <h5>Copyright The Tea Cozy 2017</h5>
+      </div>
+    </div>
+</html>
